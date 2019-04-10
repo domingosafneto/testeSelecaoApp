@@ -1,0 +1,14 @@
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\View\Inicio.xaml.g.cs
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\View\ListaPessoas.xaml.g.cs
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\AppContatos.csproj.CoreCompileInputs.cache
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\AppContatos.AssemblyInfoInputs.cache
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\AppContatos.AssemblyInfo.cs
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\bin\Debug\netstandard2.0\AppContatos.deps.json
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\bin\Debug\netstandard2.0\AppContatos.dll
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\bin\Debug\netstandard2.0\AppContatos.pdb
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\AppContatos.csprojAssemblyReference.cache
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\AppContatos.dll
+C:\Users\Domingos\Documents\Projetos\Prolins\Codigo\AppContatos\AppContatos\AppContatos\obj\Debug\netstandard2.0\AppContatos.pdb
